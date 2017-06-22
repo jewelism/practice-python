@@ -1,0 +1,9 @@
+line1 : PYTHON IS FUNNY
+line2 : boseok
+line3 : kusob
+line4 : jung
+line5 : py
+line6 : bic
+line7 : fie
+line8 : pie
+line9 : choco
